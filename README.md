@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Thiago (or Chichi) 🙉 </h2>
+<h1 align="center"> Hi there, I'm Thiago 🙉 </h2>
 
 <h3 align="center"> (he/him) </h3>
 <h3 align="center"> Balancing budgets 📊 and bits 💻- when not too busy exploring the world. </h3>
