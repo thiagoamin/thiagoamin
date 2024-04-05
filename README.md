@@ -8,7 +8,7 @@
 - 🍲: Mastering the art of culinary pyrotechnics in my free time 🔥 (I swear, I'm just trying to cook!)
 - 📺: A devout follower of political TV shows, like Scandal and VEEP
 - 🌞: Great believer that the sun has a magical way of making problems disappear (though, I just convinced myself of that)
-- 🌴: 2024 Highlight: a getaway to Cancun with my boyfriend & grandma, where every moment was soaked in sunshine
+- 🌴: 2024 Highlight - a getaway to Cancun with my boyfriend & grandma, where every moment was soaked in sunshine
 
 <!--
 **thiagoamin/thiagoamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
