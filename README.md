@@ -5,7 +5,6 @@
 
 - 🏠: Born and raised in Brazil 🇧🇷, now proudly calling Vancouver 🇨🇦 my home for the past 6 years
 - 📚: I’m currently pursuing a Bachelor of Arts in Computer Science and Economics from The University Of British Columbia
-- 🍲: Mastering the art of culinary pyrotechnics in my free time 🔥 (I swear, I'm just trying to cook!)
 - 📺: A devout follower of political TV shows, like Scandal and VEEP
 - 🌞: Great believer that the sun has a magical way of making problems disappear (though, I just convinced myself of that)
 - 🌴: 2024 Highlight - a getaway to Cancun with my boyfriend & grandma, where every moment was soaked in sunshine
