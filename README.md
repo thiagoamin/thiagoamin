@@ -5,9 +5,9 @@
 
 - 🏠: Born and raised in Brazil 🇧🇷, now proudly calling Vancouver 🇨🇦 my home for the past 6 years
 - 📚: I’m currently pursuing a Bachelor of Arts in Computer Science and Economics from The University Of British Columbia
+- ⚡: Currently learning about DSGE models and their applications with PiNNs (Physics-Informed Neural Networks)
 - 📺: A devout follower of political TV shows, like Scandal and VEEP
-- 🌞: Great believer that the sun has a magical way of making problems disappear (though, I just convinced myself of that)
-- 🌴: 2024 Highlight - a getaway to Cancun with my boyfriend & grandma, where every moment was soaked in sunshine
+- 🌴: 2024 Highlight - a getaway to Cancun with my boyfriend & grandma, where every moment was soaked in sunshine 🌞
 
 <!--
 **thiagoamin/thiagoamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
