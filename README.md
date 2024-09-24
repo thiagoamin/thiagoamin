@@ -4,7 +4,7 @@
 <h3 align="center"> Balancing budgets 📊 and bits 💻- when not too busy exploring the world. </h3>
 
 - 🏠: Born and raised in Brazil 🇧🇷, now proudly calling Vancouver 🇨🇦 my home for the past 6 years
-- 📚: I’m currently pursuing a Bachelor of Arts in Computer Science and Economics from The University Of British Columbia
+- 📚: I’m currently pursuing a Bachelor of Arts in Computer Science and Honours Economics from The University Of British Columbia
 - ⚡: Currently learning about DSGE models and their applications with PiNNs (Physics-Informed Neural Networks)
 - 📺: A devout follower of political TV shows, like Scandal and VEEP
 - 🌴: 2024 Highlight - a getaway to Cancun with my boyfriend & grandma, where every moment was soaked in sunshine 🌞
